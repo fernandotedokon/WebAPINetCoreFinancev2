@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\repository\\saldocontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\repository\\saldocontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\repository\\movimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\repository\\movimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\controllers\\movimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\movimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\repository\\isaldocontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\repository\\isaldocontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\repository\\imovimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\repository\\imovimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\repository\\contacorrenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\repository\\contacorrenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|d:\\tedokon\\oportunidades\\mirante\\entrega_v2\\webapinetcorefinancev2\\csharp-api-v2\\questao5\\infrastructure\\services\\repository\\icontacorrenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\repository\\icontacorrenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseBootstrap.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:41:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaldoContaRepository.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\SaldoContaRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Repository\\SaldoContaRepository.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\SaldoContaRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Repository\\SaldoContaRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:13:26.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISaldoContaRepository.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\ISaldoContaRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Repository\\ISaldoContaRepository.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\ISaldoContaRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Repository\\ISaldoContaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:12:50.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimentoController.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Controllers\\MovimentoController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\MovimentoController.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Controllers\\MovimentoController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\MovimentoController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwG8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:11:25.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimentoRepository.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\MovimentoRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Repository\\MovimentoRepository.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\MovimentoRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Repository\\MovimentoRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:08:39.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaCorrenteController.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:48:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:47:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovimentoRepository.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\IMovimentoRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Repository\\IMovimentoRepository.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\IMovimentoRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Repository\\IMovimentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:06:16.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContaCorrenteRepository.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\ContaCorrenteRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Repository\\ContaCorrenteRepository.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\ContaCorrenteRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Repository\\ContaCorrenteRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:46:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContaCorrenteRepository.cs",
+              "DocumentMoniker": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\IContaCorrenteRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Repository\\IContaCorrenteRepository.cs",
+              "ToolTip": "D:\\Tedokon\\Oportunidades\\Mirante\\Entrega_v2\\WebAPINetCoreFinancev2\\CSharp-API-v2\\Questao5\\Infrastructure\\Services\\Repository\\IContaCorrenteRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Repository\\IContaCorrenteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:44:01.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
